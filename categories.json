@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Pães", "description": "Pães salgados e doces", "icon": "🥖" },
+  { "id": 2, "name": "Bolos", "description": "Bolos de festa e sobremesas", "icon": "🍰" },
+  { "id": 3, "name": "Doces", "description": "Brigadeiros, trufas e afins", "icon": "🍬" },
+  { "id": 4, "name": "Salgados", "description": "Coxinhas, empadas e quiches", "icon": "🥐" }
+]
